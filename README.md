@@ -2,7 +2,7 @@
 
 Chipseeker is a R package used for analysing and annotating the regions near the peaks called (Macs2 output) from ChIP sequencing data.
 
-This is my first try with ChIP seq data. Any suggestions/improvements/coorections are welcome.
+This is my first try with ChIP seq data. Any suggestions/improvements/corrections are welcome.
 
 This can be used for peaks from ATAC sequencing data as well.
 
